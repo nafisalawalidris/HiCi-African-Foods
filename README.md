@@ -51,7 +51,7 @@
   <h2>License</h2>
   <p>This project is licensed under the MIT.</p>
   
+ ![HiCi - Africa Food Export-1](https://github.com/elfeenah/HiCi-African-Foods/assets/111433655/0d840eeb-fc12-43ea-a98c-1c6f4272229a)
+ 
 </body>
 </html>
-
-![HiCi - Africa Food Export-1](https://github.com/elfeenah/HiCi-African-Foods/assets/111433655/f97e943c-0069-413a-aaa7-a7fab6c3223d)
